@@ -1,0 +1,57 @@
+ul, ul > li {
+    font-size: large;
+    padding: 4px;
+    text-align: left;
+    list-style: none;
+	
+}
+	
+#enonce{
+    background-color: darkblue;
+    padding: 20px;
+    border-radius:20px;
+    margin: 5px;
+}
+h2{
+ text-align: center;	
+color:black;	
+}
+h3{
+ text-align: center;	
+	color:white;	
+}
+h4{
+	color:red	;
+ text-align: center;	
+pre{
+}
+color:white	;	
+}
+#nav-tab{
+display:grid;	
+place-items:center;	
+background-color:darkblue !important;
+border-radius:20px;
+}
+#wi{
+text-align: center;	
+	color:white;	
+}
+input{
+height:60px;	
+width:100%;	
+}
+#4hn{
+color:#ff0000;	
+}
+.return{
+color:red !important;	
+}
+#org{color:black;}
+p{
+font-size: large;	
+	
+}
+/*.output-text-area{
+height: 20em !important;
+}*/
